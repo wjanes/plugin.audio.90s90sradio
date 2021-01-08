@@ -1,0 +1,114 @@
+# Kodi Media Center language file
+# Addon Name: Regiocast Radio
+# Addon id: audio.regiocast
+# Addon Provider: Groovie
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: https://github.com/wjanes/kodi-addon-music-regiocast/issues\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2020-05-08 23:13+0200\n"
+"Last-Translator: Gr00v13\n"
+"Language-Team: "
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+######################################
+# 90s Literals
+######################################
+
+msgctxt "#33000"
+msgid "90s Boygroup"
+msgstr "90s Boygroup"
+
+msgctxt "#33001"
+msgid "90s Dance"
+msgstr "90s Dance"
+
+msgctxt "#33002"
+msgid "90s Grunge"
+msgstr "90s Grunge"
+
+msgctxt "#33003"
+msgid "90s HipHop"
+msgstr "90s HipHop"
+
+msgctxt "#33004"
+msgid "90s HipHop Germany"
+msgstr "90s HipHop Deutschland"
+
+msgctxt "#33005"
+msgid "90s In the Mix"
+msgstr "90s In the Mix"
+
+msgctxt "#33006"
+msgid "90s Beat"
+msgstr "90s Beat"
+
+msgctxt "#33007"
+msgid "90s Hits"
+msgstr "90s Hits"
+
+msgctxt "#33008"
+msgid "90s RnB"
+msgstr "90s RnB"
+
+msgctxt "#33009"
+msgid "90s Techno"
+msgstr "90s Techno"
+
+msgctxt "#33010"
+msgid "90s Xmas"
+msgstr "90s Xmas"
+
+msgctxt "#33011"
+msgid "90s Boygroups. All the boys you were in love with in the 90s: Kevin, Howie, Nick, Robbie, Mark, Howard, but also New Kids On The Block, N’SYNC and many more!"
+msgstr "90s Boygroups. Alle Jungs, die in den 90ern geliebt wurden: Kevin, Howie, Nick, Robbie, Mark, Howard, aber natürlich auch New Kids On The Block, N’SYNC u.v.a."
+
+msgctxt "#33012"
+msgid "90s Dance: Dancesound of the 90s. All in one radio station. 90s Eurodance, House and 90s Trance. Nonstop and frequently re-mixed ."
+msgstr "90s Dance: Der Dancesound der 90er. In einem eigenen Radio. 90s Eurodance, House und 90er Trance. Nonstop und immer neu gemischt."
+
+msgctxt "#33013"
+msgid "Angry music from the 90s: Grunge. Born in Seattle, Washington in the 90s, Grunge lives on and thrills many generations."
+msgstr "Wütende Musik der 90er: Grunge. Was in Seattle in den USA begann, begeistert noch immer Generationen."
+
+msgctxt "#33014"
+msgid "90s HipHop only plays the best tracks, somewhere between Eastcoast and Westcoast."
+msgstr "Rap der 90s wird auch als \"Golden age Hiphop\" bezeichnet. Der Sound war noch experimentell und innovativ aber dennoch erfolgreich und beliebt. Snoop Doggy Dogg, Notorious B.I.G. und LL Cool J stehen für diese Epoche."
+
+msgctxt "#33015"
+msgid "90s Hiphop deutsch – a Radio for all the hymns from the 90ies-German-Hiphop-Scene nonstop. All over Germany young german hiphop-artists started their career. The decade brought lots of commercial hits but also a living underground scene."
+msgstr "90s Hiphop deutsch – ein ganzes Radio mit den deutschen Hiphop-Hymnen der 90er. Überall im Land starteten junge deutsche Hiphopper mit ihren Hits in die Charts und die Clubs."
+
+msgctxt "#33016"
+msgid "90s In The Mix: The Sound of the 90s. Nonstop mixed by Oli P. 90s Hits, 90s Eurodance, 90s House and all the Anthems Of The Decade - Nonstop and always in the mix."
+msgstr "90s In The Mix: Der Sound der 90er – nonstop gemixt. Das eigene DJ-Radio von Oli P. 90s Hits, 90s Eurodance, 90s House und alle Hymnen des Jahrzehnts. Nonstop und immer gemixt."
+
+msgctxt "#33017"
+msgid "90s Clubhits. Listen to the coolest songs of 90s-charts: No ballades, no dead weight, just the hottest music of the 90s. Less mainstream - more underground."
+msgstr "90s Clubhits. Hier gibt es die coole Musik der 90er-Charts, keine Balladen, kein Ballast, nur die angesagten Hits der 90er. Weniger Mainstream - mehr Underground."
+
+msgctxt "#33018"
+msgid "90s - the new radio station for anybody who is in love with the 90s. On Air: The very best of the 90s, featuring Ace of Base, Celine Dion, Rednex, Roxette, U96 and many more. Freshly mixed and always in a fancy mood."
+msgstr "90s - die neue digitale Radiomarke für alle, die die Musik der 90er lieben. Hier laufen von Ace of Base über Celine Dion, Rednex, Roxette bis U96 die großen Radiohits der 90er. Frisch gemischt und immer gute Laune."
+
+msgctxt "#33019"
+msgid "The 90s - that's the time of Mariah Carey & Boyz II Men, Whitney Houston and R. Kelly, TLC and Toni Braxton. 90s Black & RnB gets the soul of the 90s back on a radiostation, all around the clock."
+msgstr "In den 90ern erlebte die klassische RnB eine Revolution. Pop-Einflüsse waren stilprägend für den \"Contemporary RnB\", den neuen RnB. Brandy und Aaliyah brachten einen Schuss Hiphop in ihren Sound."
+
+msgctxt "#33020"
+msgid "90s Techno - Beats for Loveparade, Bunker-Rave and After-Hour."
+msgstr "90s Techno - Beats für Loveparade, Bunker-Rave und After-Hour."
+
+msgctxt "#33021"
+msgid "90s Christmas Stream. Very best of 90s Christmas-Tracks - nonstop. Brought to you by 90s - Real 90s Radio."
+msgstr "90s Christmas Radio. Die besten Christmas-Tracks der 90er – nonstop. Präsentiert von 90s - Real 90s Radio."
+
+msgctxt "#33022"
+msgid "From the 90s pop hits to grunge, rock, alternative, hiphop and RnB. Of course there are also the greatest boygroup hits, the world of 90s dance and Eurodance as well as all the great techno anthems - depending on mood and taste."
+msgstr "Von den 90er Pop Hits über Grunge, Rock, Alternative bis hin zu Hiphop und RnB. Natürlich gibt es auch die größten Boygroup-Hits, die Welt des 90er-Dance und des Eurodance sowie alle großen Techno-Hymnen – je nach Laune und Geschmack."
