@@ -5,11 +5,9 @@ import xbmcaddon
 import xbmc
 from ConfigParser import SafeConfigParser
 
-addon = xbmcaddon.Addon(id='plugin.audio.regiocast')
+addon = xbmcaddon.Addon(id='plugin.audio.90s90sRadio')
 addon_dir = xbmc.translatePath(addon.getAddonInfo('path'))
 picture_path = "http://aggregatorservice.loverad.io"
-parser = SafeConfigParser()
-parser.read(os.path.join(addon_dir,"resources","regiocast.cfg"))
 
 # Build Url String for Kodi
 def build_url(query):
