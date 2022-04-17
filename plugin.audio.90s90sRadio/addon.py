@@ -1,4 +1,4 @@
-import urlparse
+from urllib.parse import parse_qs
 import xbmcplugin
 import xbmcgui
 import sys
@@ -6,7 +6,7 @@ from lib import _90s90s
 from lib import helper
 
 def start():
-    args = urlparse.parse_qs(sys.argv[2][1:])
+    args = parse_qs(sys.argv[2][1:])
     mode = args.get('mode', None)
 
     # initial launch of add-on

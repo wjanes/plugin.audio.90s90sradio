@@ -1,9 +1,8 @@
 import sys
-import urllib
+from urllib.parse import urlencode
 import os
 import xbmcaddon
 import xbmc
-from ConfigParser import SafeConfigParser
 
 addon = xbmcaddon.Addon(id='plugin.audio.90s90sRadio')
 addon_dir = xbmc.translatePath(addon.getAddonInfo('path'))
@@ -12,7 +11,7 @@ picture_path = "http://aggregatorservice.loverad.io"
 # Build Url String for Kodi
 def build_url(query):
     base_url = sys.argv[0]
-    return base_url + '?' + urllib.urlencode(query)
+    return base_url + '?' + urlencode(query)
 
 #Get Image from the image folder
 def get_image(folder, image):
